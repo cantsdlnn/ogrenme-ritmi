@@ -1,5 +1,7 @@
 # Öğrenme Ritmi
 
+[![CI](https://github.com/cantsdlnn/ogrenme-ritmi/actions/workflows/ci.yml/badge.svg)](https://github.com/cantsdlnn/ogrenme-ritmi/actions/workflows/ci.yml)
+
 Öğrencinin konu listesini günlük dakika bütçesine sığdıran, tekrar sonucuna göre bir sonraki tarihi açıklanabilir kurallarla hesaplayan yerel-öncelikli PWA.
 
 ![Öğrenme Ritmi ekranı](docs/assets/ogrenme-ritmi.png)
